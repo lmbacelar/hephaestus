@@ -1,0 +1,5 @@
+venv
+.vscode
+README.rst
+__pycache__
+.pytest_cache
